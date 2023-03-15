@@ -1,0 +1,5 @@
+sub()
+{
+c=a-b
+print c
+}
